@@ -151,6 +151,6 @@
   // trunk.io
   "editor.defaultFormatter": "trunk.io",
   "trunk.showPreexistingIssues": false,
-  "trunk.languageServerArguments": ["--log-level=trace", "--log-file=/tmp/lsp-log.txt"],
+  "trunk.languageServerArguments": ["--log-level=trace", "--log-file=/tmp/lsp-log.txt", "--skip-startup-scan"],
   "trunk.trace.server": "verbose"
 }
